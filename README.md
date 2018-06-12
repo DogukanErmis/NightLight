@@ -16,5 +16,5 @@ NightLight is a Windows system tray application that reduces eye strain produced
 ![NightLight](screenshots.png)
 
 ## Configuration
-Run UnlockGamma.reg file and reboot your computer to unlock < 4500K color temperatures on Windows.
-
+* Run UnlockGamma.reg file and reboot your computer to unlock < 4500K color temperatures on Windows
+* **Autostart:** Copy NightLight.exe shortcut to "%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup" folder
