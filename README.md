@@ -12,5 +12,7 @@ NightLight is a Windows system tray application that reduces eye strain produced
 * No installation required
 * No Web API, no library used
 
-#### Screenshots
+#### Screenshot
+
+![Alt text](screenshot.png)
 
