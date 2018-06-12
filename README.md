@@ -19,4 +19,4 @@ NightLight is a Windows system tray application that reduces eye strain produced
 * Default settings: 
   * Day (08-18): **4200K**
   * Evening (18-21): **3400K**
-  * Night (21-24): **2300K**
+  * Night (21-08): **2300K**
