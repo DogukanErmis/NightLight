@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1528820635 source:c:\users\dog\desktop\nightlight\nightlight\main.cpp
+	"resource.h"
+	<stdlib.h>
+
+1528820640 c:\users\dog\desktop\nightlight\nightlight\resource.h
+	<windows.h>
+	<shellapi.h>
+
+1491433292 source:c:\users\dog\desktop\nightlight\nightlight\resource.rc
+	"resource.h"
+

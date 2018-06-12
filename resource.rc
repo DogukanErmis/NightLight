@@ -1,0 +1,2 @@
+#include "resource.h"
+ICO1 ICON DISCARDABLE "icon.ico"
