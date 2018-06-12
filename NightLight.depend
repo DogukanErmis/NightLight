@@ -10,3 +10,13 @@
 1491433292 source:c:\users\dog\desktop\nightlight\nightlight\resource.rc
 	"resource.h"
 
+1528833041 source:c:\users\dog\desktop\nightlight-master\main.cpp
+	"resource.h"
+
+1528833008 c:\users\dog\desktop\nightlight-master\resource.h
+	<windows.h>
+	<shellapi.h>
+
+1528826284 source:c:\users\dog\desktop\nightlight-master\resource.rc
+	"resource.h"
+
