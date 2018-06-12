@@ -13,13 +13,10 @@ NightLight is a Windows system tray application that reduces eye strain produced
 * No Web API, no library used
 * Automatically checks local time every 5 minutes and sets color temperature accordingly
 
-## Screenshot
-![NightLight](screenshots.png)
-
 ## Configuration
 * **Autostart:** Copy NightLight.exe shortcut to "%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup" folder
 * Run UnlockGamma.reg file and reboot your computer to unlock < 4500K color temperatures on Windows
 * Default settings: 
-  * Day(08 to 18): 4200K
-  * Evening(18 to 21): 3400K
-  * Night(21 to 24): 2300K
+  * Day (08-18): **4200K**
+  * Evening (18-21): **3400K**
+  * Night (21-24): **2300K**
