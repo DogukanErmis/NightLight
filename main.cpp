@@ -137,9 +137,9 @@ void SetColorTempBasedOnTime()
 {
     SYSTEMTIME lt;
     GetLocalTime(&lt);
-    if(lt.wHour < 8 || lt.wHour > 21)
+    if(lt.wHour < 7 || lt.wHour > 20)
         ChangeColorTemp(152,54); // 2300K
-    else if(lt.wHour > 8 && lt.wHour < 18)
+    else if(lt.wHour > 7 && lt.wHour < 17)
         ChangeColorTemp(213,173); // 4200K
     else
         ChangeColorTemp(193,132); // 3400K
