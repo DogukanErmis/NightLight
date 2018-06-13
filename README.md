@@ -9,7 +9,6 @@ NightLight is a Windows system tray application that reduces eye strain produced
 * Lightweight - only a few kb in size (Written in C/C++ Win32)
 * Extremely low memory usage
 * No internet connection needed
-* No Web API, no library used
 * Automatically checks local time every 5 minutes and sets color temperature accordingly
 
 ## Installation
