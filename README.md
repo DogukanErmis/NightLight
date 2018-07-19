@@ -1,5 +1,5 @@
 # NightLight
-NightLight is a Windows system tray application that reduces eye strain produced by staring at a computer screen.
+NightLight is a Windows system tray application that reduces eye strain by reducing the amount of blue light your monitor emits.
 # ![NightLight](https://raw.githubusercontent.com/D-Ermis/D.lux/master/D.lux/logo.png)
 
 ## Download 
